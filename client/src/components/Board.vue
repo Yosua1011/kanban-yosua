@@ -2,9 +2,6 @@
    <div id="board">
       <div class="row">
          <div class="col-md-12">
-            <div class="col-md-12">
-               <h1>Your Personal Kanban</h1>
-            </div>
          </div>
          <div class="col-md-12">
             <FormCreate @submitTask="submitTask"

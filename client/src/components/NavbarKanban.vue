@@ -8,13 +8,8 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
         </button>
-        <router-link class="navbar-brand" to="/">Home</router-link>
-      </div>
-
-      <div class="collape navbar-collapse" id="bs-example-navbar-collapse-2">
-        <ul class="nav navbar-nav">
-          <li><router-link to="/">History</router-link></li>
-        </ul>
+        <!-- <router-link class="navbar-brand" to="/">Home</router-link> -->
+        <h1>Yosua Kanban</h1>
       </div>
     </div>
   </nav>
